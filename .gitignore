@@ -1,0 +1,7 @@
+/node_modules
+
+.env
+
+sapnwrfc.ini
+
+dev_rfc.log

@@ -1,0 +1,1512 @@
+{
+    "ADDRESS": {
+        "PERS_NO": "0000026882",
+        "ADDR_NO": "0000023364",
+        "TITLE_P": "",
+        "FIRSTNAME": "Gabriel",
+        "LASTNAME": "Lima Espinosa",
+        "BIRTH_NAME": "",
+        "MIDDLENAME": "",
+        "SECONDNAME": "",
+        "FULLNAME": "Gabriel Lima Espinosa",
+        "FULLNAME_X": "",
+        "TITLE_ACA1": "",
+        "TITLE_ACA2": "",
+        "PREFIX1": "",
+        "PREFIX2": "",
+        "TITLE_SPPL": "",
+        "NICKNAME": "",
+        "INITIALS": "",
+        "NAMEFORMAT": "",
+        "NAMCOUNTRY": "",
+        "LANGU_P": "",
+        "LANGUP_ISO": "",
+        "SORT1_P": "",
+        "SORT2_P": "",
+        "DEPARTMENT": "",
+        "FUNCTION": "",
+        "BUILDING_P": "",
+        "FLOOR_P": "",
+        "ROOM_NO_P": "",
+        "INITS_SIG": "",
+        "INHOUSE_ML": "",
+        "COMM_TYPE": "",
+        "TITLE": "",
+        "NAME": "Company address - please maintain",
+        "NAME_2": "Default company address for SAP users",
+        "NAME_3": "",
+        "NAME_4": "",
+        "C_O_NAME": "",
+        "CITY": "",
+        "DISTRICT": "",
+        "CITY_NO": "",
+        "DISTRCT_NO": "",
+        "CHCKSTATUS": "",
+        "POSTL_COD1": "",
+        "POSTL_COD2": "",
+        "POSTL_COD3": "",
+        "PO_BOX": "",
+        "PO_BOX_CIT": "",
+        "PBOXCIT_NO": "",
+        "DELIV_DIS": "",
+        "TRANSPZONE": "",
+        "STREET": "",
+        "STREET_NO": "",
+        "STR_ABBR": "",
+        "HOUSE_NO": "",
+        "HOUSE_NO2": "",
+        "STR_SUPPL1": "",
+        "STR_SUPPL2": "",
+        "STR_SUPPL3": "",
+        "LOCATION": "",
+        "BUILDING": "",
+        "FLOOR": "",
+        "ROOM_NO": "",
+        "COUNTRY": "",
+        "COUNTRYISO": "",
+        "LANGU": "",
+        "LANGU_ISO": "",
+        "REGION": "",
+        "SORT1": "",
+        "SORT2": "",
+        "TIME_ZONE": "",
+        "TAXJURCODE": "",
+        "ADR_NOTES": "",
+        "TEL1_NUMBR": "",
+        "TEL1_EXT": "",
+        "FAX_NUMBER": "",
+        "FAX_EXTENS": "",
+        "E_MAIL": "gabriel.espinosa@numenit.com",
+        "BUILD_LONG": "",
+        "REGIOGROUP": "",
+        "HOME_CITY": "",
+        "HOMECITYNO": "",
+        "PCODE1_EXT": "",
+        "PCODE2_EXT": "",
+        "PCODE3_EXT": "",
+        "PO_W_O_NO": "",
+        "PO_BOX_REG": "",
+        "POBOX_CTRY": "",
+        "PO_CTRYISO": "",
+        "DONT_USE_S": "",
+        "DONT_USE_P": "",
+        "HOUSE_NO3": "",
+        "LANGU_CR_P": "",
+        "LANGUCPISO": "",
+        "PO_BOX_LOBBY": "",
+        "DELI_SERV_TYPE": "",
+        "DELI_SERV_NUMBER": "",
+        "COUNTY_CODE": "",
+        "COUNTY": "",
+        "TOWNSHIP_CODE": "",
+        "TOWNSHIP": "",
+        "XPCPT": ""
+    },
+    "ADMINDATA": {
+        "ANAME": "DNAPOLI",
+        "ERDAT": "20221209",
+        "TRDAT": "20221216"
+    },
+    "ALIAS": {
+        "USERALIAS": "GABRIEL LIMA ESPINOSA"
+    },
+    "COMPANY": {
+        "COMPANY": "SAP-SE",
+        "TEMPLATE_ORGTYPE": ""
+    },
+    "DEFAULTS": {
+        "STCOD": "",
+        "SPLD": "",
+        "SPLG": "",
+        "SPDB": "H",
+        "SPDA": "K",
+        "DATFM": "2",
+        "DCPFM": "X",
+        "LANGU": "E",
+        "CATTKENNZ": "",
+        "KOSTL": "",
+        "START_MENU": "S000",
+        "TIMEFM": "0"
+    },
+    "DESCRIPTION": {
+        "RESPONSIBLE": "",
+        "TECHDESC": ""
+    },
+    "IDENTITY": {
+        "IDENTITY_UUID": "8dc24660-c3ac-1eed-9dff-59ded5b03cb9",
+        "BPPERSON": ""
+    },
+    "ISLOCKED": {
+        "WRNG_LOGON": "U",
+        "LOCAL_LOCK": "U",
+        "GLOB_LOCK": "U",
+        "NO_USER_PW": "U"
+    },
+    "LASTMODIFIED": {
+        "MODDATE": "20221209",
+        "MODTIME": "165503",
+        "MODIFIER": "DNAPOLI"
+    },
+    "LOGONDATA": {
+        "GLTGV": "20220912",
+        "GLTGB": "00000000",
+        "USTYP": "A",
+        "CLASS": "",
+        "ACCNT": "",
+        "TZONE": "BRAZIL",
+        "LTIME": "123950",
+        "BCODE": {
+            "type": "Buffer",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "CODVN": "",
+        "PASSCODE": {
+            "type": "Buffer",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "CODVC": "",
+        "PWDSALTEDHASH": "{x-isSHA512, 15000}5/X+gwATs2oAKHYhv+H4iGozunBJGngdc/vZjgOmoa2hLcJzwovCEWfL11adgEI4kjuAoVkFn0lqbUOVji6f49Z6bRiLS7zunqZ0nfs16KoBY3bjHViwGKz4Yj/tvHuH",
+        "CODVS": "H",
+        "SECURITY_POLICY": ""
+    },
+    "REF_USER": {
+        "REF_USER": ""
+    },
+    "SAPUSER_UUID": {
+        "SAP_UID": ""
+    },
+    "SNC": {
+        "GUIFLAG": "",
+        "PNAME": ""
+    },
+    "TECH_USER": {
+        "TECH_INDICATOR": "",
+        "IDADTYPE": "00"
+    },
+    "UCLASS": {
+        "LIC_TYPE": "",
+        "SPEC_VERS": "",
+        "COUNTRY_SURCHARGE": "0",
+        "SUBSTITUTE_FROM": "00000000",
+        "SUBSTITUTE_UNTIL": "00000000",
+        "SYSID": "",
+        "CLIENT": "",
+        "BNAME_CHARGEABLE": ""
+    },
+    "CACHE_RESULTS": "",
+    "EXTUID_GET": {
+        "READ_ALL": "",
+        "READ_EXTUID_TYPE": ""
+    },
+    "USERNAME": "GESPINOSA",
+    "ACTIVITYGROUPS": [
+        {
+            "AGR_NAME": "/SCWM/MENU_S4",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Menu for Extended Warehouse Management in S/4HANA",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "/SRMSMC/ACTIVITY_PARTICIPANT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Participant in Activity - This role is obsolete",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "/SRMSMC/EVALUATION_APPRAISER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Appraiser - This role is obsolete",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "/SRMSMC/QUESTIONNAIRE_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Questionnaire Manager - This role is obsolete",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAPOS_SD_LORD_ODATA_ORDER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "OData Service for Sales Order",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAPOS_SD_RESOLVE_CREDIT_BLOCK",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "PFCG Role to Resolve Credit Block in SD",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAPOS_SD_SOFM_INVOICE",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Fiori Wave2 OData Service for SOFM Invoice Issue",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BC_SEFS_ADMIN",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Enterprise File Search (EFS): Administration and Monitoring",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BC_SES_ADMIN",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Search Engine Service (SES): Administration and Monitoring",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_AA_ACCOUNTANT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Asset Accountant",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_ADMINISTRATOR",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Administrator",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_ADMINISTRATOR_LCM",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Administrator - Enterprise Contract Management",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_ANALYTICS_SPECIALIST",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Analytics Specialist",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_AP_ACCOUNTANT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Accounts Payable Accountant",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_AP_ACCOUNTANT_PROCUREMT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Accounts Payable Accountant - Procurement",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_AR_ACCOUNTANT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Accounts Receivable Accountant",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_BATCH_MASTER_SPCLST",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Master Data Specialist - Batch Data",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_BILLING_CLERK",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Billing Clerk",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_BPC_EXPERT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Configuration Expert - Business Process Configuration",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_BUPA_MASTER_SPECIALIST",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Master Data Specialist - Business Partner Data",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_BUSINESS_PROCESS_SPEC",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Business Process Specialist",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_BUYER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Strategic Buyer",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_CHG_MGMT_COORDINATOR",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Change Management Coordinator",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_CONF_EXPERT_BUS_NET_INT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Configuration Expert - Business Network Integration",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_CREDIT_CONTROLLER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Credit Controller",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_DESIGN_ENGINEER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Design Engineer",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_EMPLOYEE",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Employee",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_EMPLOYEE_PROCUREMENT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Employee - Procurement",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_FRGHT_CTRC_SPECIALIST",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Contract Specialist - Freight Management",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_FRGHT_SETTLEMENT_CLERK",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Settlement Clerk - Freight Management",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_GL_ACCOUNTANT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "General Ledger Accountant",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_INTERNAL_SALES_REP",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Internal Sales Representative",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_INTRASTAT_SPECIALIST",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Intrastat Specialist",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_INVENTORY_ACCOUNTANT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Cost Accountant - Inventory",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_INVENTORY_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Inventory Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_LEGAL_COUNSEL",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Legal Counsel",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_MAINTENANCE_PLANNER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Maintenance Planner",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Manager - Inbox",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_MATL_PLNR_EXT_PROC",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Material Planner - External Procurement",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_ORDER_FULFILLMNT_MNGR",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Order Fulfillment Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_ORDER_FULFILLMNT_SPCLST",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Order Fulfillment Specialist",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_OVERHEAD_ACCOUNTANT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Cost Accountant - Overhead",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRICING_SPECIALIST",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Pricing Specialist",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODMASTER_SPECIALIST",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Master Data Specialist - Product Data",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODN_ENG_DISC",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Production Engineer - Discrete Manufacturing",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODN_OPTR_DISC",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Production Operator - Discrete Manufacturing",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODN_OPTR_PROC",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Production Operator - Process Manufacturing",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODN_OPTR_RPTV",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Production Operator - Repetitive Manufacturing",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODN_PLNR",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Production Planner",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODN_PLNR_LEAN_MFG",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Production Planner - Lean Manufacturing",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODN_SUPERVISOR_DISC",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Production Supervisor - Discrete Manufacturing",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODN_SUPERVISOR_PROC",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Production Supervisor - Process Manufacturing",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODN_SUPERVISOR_RPTV",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Production Supervisor - Repetitive Manufacturing",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODN_SUPRVSR_DISC_CAM",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Production Supervisor - Discrete Manufacturing (CAM)",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PRODN_SUPRVSR_DISC_EPO",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Production Supervisor - Discrete Manufacturing (EPO)",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PURCHASER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Purchaser",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_PURCHASING_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Purchasing Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_QUALITY_ENGINEER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Quality Engineer",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_QUALITY_ENGINEER_EPO",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Quality Engineer (EPO)",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_QUALITY_TECHNICIAN",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Quality Technician",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_RECEIVING_SPECIALIST",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Receiving Specialist",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_RETURNS_REFUND_CLERK",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Returns and Refund Clerk",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_SALES_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Sales Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_SALES_PROCESS_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Order-to-Cash Process Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_SET_CLERK",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Settlement Clerk",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_SHIPPING_SPECIALIST",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Shipping Specialist",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_SHIP_SPECIALIST_JIT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Shipping Specialist - Just-In-Time Supply",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_TRANSPORTATION_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Transportation Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_TRANSPORTATION_PLANNER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Transportation Planner",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_BR_WAREHOUSE_CLERK",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Warehouse Clerk",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_ESH_CR_ADMIN",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Embedded Search: Administration and Monitoring",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_ESH_CUST_QUERY_LOG",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Enterprise Search: Customizing Query Log",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_ESH_DISPLAY_QUERY_LOG",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Enterprise Search: Display Query Log",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_ESH_LOCAL_ADMIN",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Embedded Search (Composite): Administration and Monitoring",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_ESH_REORG_QUERY_LOG",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Enterprise Search: Reorganize Query Log",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_ESH_SEARCH_CATEG",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Enterprise Search Hub: Search filtered by Category",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_ESH_SEARCH_CDS",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Enterprise Search: Search filtered by CDS-Connector(SAP_BASIS 751)",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_ESH_SEARCH_USER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Enterprise Search Hub: Search filtered by Connector",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_ESH_TRANSPORT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Enterprise Search: Workbench Organizer and transport system authorities",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_FIN_FIXED_ASSET_APP",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "CestBON role for Fixed Asset",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_FND_TCR_T",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "SAP Role for FND - Transactional Apps and Fact Sheets",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_MDGA_MENU",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Master Data Governance Analytics",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_MDG_ADMIN",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Master Data Governance: Administrator",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_PAGEBUILDER_DISPLAY",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Display Authorizations for CHIPs and Page Builder CKonfigurations",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_SD_SOFM_DLV_APP",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Fiori Sales Orders Fulfillment Monitor",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "SAP_SD_SOFULFIL_MON_APP",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Role for Sales Order Fullfillment Monitor Application",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "ZACTIVITY_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Activity Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "ZBG_SUP_EVAL_BUYSIDE",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "RFC Background Processing in Supplier Evaluation",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "ZBUYER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Strategic Buyer",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "ZCATEGORY_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Category Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "ZEMPLOYEE_PROCUREMENT",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Employee - Procurement",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "ZEVALUATION_APPRAISER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Appraiser",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "ZQUESTIONNAIRE_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Questionnaire Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "ZSAP_BR_BUYER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Strategic Buyer",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_ACTIVITY_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Activity Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_CATEGORY_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Category Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_CUSTOMER_RETURN",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Z_CUSTOMER_RETURN",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_HELP_ROLE",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Role for Fiori Web Assistant",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_MENU",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Z_MENU",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_PPM_SUPERUSER_READ",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Superuser Read all Objects",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_PPM_TRANSFER_ERPPPM",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Role for Transfer Data from ERP to PPM",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_PPM_USER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "PPM User",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_PPM_USER_RESTRICTED",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Role for PPM User",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_QUESTIONNAIRE_MANAGER",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Questionnaire Manager",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_S4CM_FLP",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "S/4HANA Service: Custom Tiles + Additional Target Mapping",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_S4H_FIN",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "S4H Fin",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_S4SERVICE_FLP",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "SAP S/4HANA Service - Display Service-Related Apps Group",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_SD_WF",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "WF inbox auth",
+            "ORG_FLAG": ""
+        },
+        {
+            "AGR_NAME": "Z_TRANSLATOR",
+            "FROM_DAT": "20220816",
+            "TO_DAT": "99991231",
+            "AGR_TEXT": "Translator",
+            "ORG_FLAG": ""
+        }
+    ],
+    "ADDCOMREM": [],
+    "ADDFAX": [],
+    "ADDPAG": [],
+    "ADDPRT": [],
+    "ADDRFC": [],
+    "ADDRML": [],
+    "ADDSMTP": [
+        {
+            "STD_NO": "X",
+            "E_MAIL": "gabriel.espinosa@numenit.com",
+            "EMAIL_SRCH": "GABRIEL.ESPINOSA@NUM",
+            "STD_RECIP": "",
+            "R_3_USER": "",
+            "ENCODE": "",
+            "TNEF": "",
+            "HOME_FLAG": "X",
+            "CONSNUMBER": "001",
+            "ERRORFLAG": "",
+            "FLG_NOUSE": "",
+            "VALID_FROM": "",
+            "VALID_TO": ""
+        }
+    ],
+    "ADDSSF": [],
+    "ADDTEL": [],
+    "ADDTLX": [],
+    "ADDTTX": [],
+    "ADDURI": [],
+    "ADDX400": [],
+    "EXTIDHEAD": [],
+    "EXTIDPART": [],
+    "EXTUID": [],
+    "GROUPS": [],
+    "PARAMETER": [
+        {
+            "PARID": "8AP",
+            "PARVA": "C",
+            "PARTXT": "FI-CA: Application in Contract Accounting"
+        }
+    ],
+    "PARAMETER1": [
+        {
+            "PARID": "8AP",
+            "PARVA": "C",
+            "PARTXT": "FI-CA: Application in Contract Accounting"
+        }
+    ],
+    "PROFILES": [
+        {
+            "BAPIPROF": "SAP_ALL",
+            "BAPIPTEXT": "All SAP System authorizations",
+            "BAPITYPE": "C",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110002",
+            "BAPIPTEXT": "Profile for role SAP_BC_SEFS_ADMIN",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110004",
+            "BAPIPTEXT": "Profile for role SAP_BC_SES_ADMIN",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110008",
+            "BAPIPTEXT": "Profile for role SAP_ESH_CR_ADMIN",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110009",
+            "BAPIPTEXT": "Profile for role SAP_ESH_CUST_QUERY_LOG",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110011",
+            "BAPIPTEXT": "Profile for role SAP_ESH_DISPLAY_QUERY_LOG",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110020",
+            "BAPIPTEXT": "Profile for role SAP_ESH_REORG_QUERY_LOG",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110022",
+            "BAPIPTEXT": "Profile for role SAP_ESH_SEARCH_CATEG",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110023",
+            "BAPIPTEXT": "Profile for role SAP_ESH_SEARCH_CDS",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110024",
+            "BAPIPTEXT": "Profile for role SAP_ESH_SEARCH_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110027",
+            "BAPIPTEXT": "Profile for role SAP_ESH_TRANSPORT",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110032",
+            "BAPIPTEXT": "Profile for role ZCATEGORY_MANAGER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110033",
+            "BAPIPTEXT": "Profile for role ZQUESTIONNAIRE_MANAGER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110034",
+            "BAPIPTEXT": "Profile for role ZBG_SUP_EVAL_BUYSIDE",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110035",
+            "BAPIPTEXT": "Profile for role ZEVALUATION_APPRAISER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110037",
+            "BAPIPTEXT": "Profile for role Z_ACTIVITY_MANAGER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110038",
+            "BAPIPTEXT": "Profile for role ZACTIVITY_MANAGER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110039",
+            "BAPIPTEXT": "Profile for role Z_CATEGORY_MANAGER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110040",
+            "BAPIPTEXT": "Profile for role Z_QUESTIONNAIRE_MANAGER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110041",
+            "BAPIPTEXT": "Profile for role Z_TRANSLATOR",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110047",
+            "BAPIPTEXT": "Profile for role Z_S4CM_FLP",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100471",
+            "BAPIPTEXT": "Profile for role Z_S4CM_FLP",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110062",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100621",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006210",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006211",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006212",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006213",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006214",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006215",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006216",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006217",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006218",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100622",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100623",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100624",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100625",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100626",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100627",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100628",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100629",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER_RESTRICTED",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110063",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100631",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006310",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006311",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006312",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006313",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006314",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006315",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006316",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006317",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH11006318",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100632",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100633",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100634",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100635",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100636",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100637",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100638",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH1100639",
+            "BAPIPTEXT": "Profile for role Z_PPM_USER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110064",
+            "BAPIPTEXT": "Profile for role Z_PPM_TRANSFER_ERPPPM",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110065",
+            "BAPIPTEXT": "Profile for role Z_PPM_SUPERUSER_READ",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110079",
+            "BAPIPTEXT": "Profile for role Z_SD_WF",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110085",
+            "BAPIPTEXT": "Profile for role Z_S4SERVICE_FLP",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110090",
+            "BAPIPTEXT": "Profile for role SAP_BR_ADMINISTRATOR",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110101",
+            "BAPIPTEXT": "Profile for role Z_MENU",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110240",
+            "BAPIPTEXT": "Profile for role SAPOS_SD_LORD_ODATA_ORDER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110241",
+            "BAPIPTEXT": "Profile for role SAPOS_SD_RESOLVE_CREDIT_BLOCK",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110514",
+            "BAPIPTEXT": "Profile for role SAP_BR_BILLING_CLERK",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110515",
+            "BAPIPTEXT": "Profile for role SAP_BR_BPC_EXPERT",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH110960",
+            "BAPIPTEXT": "Profile for role SAP_FIN_FIXED_ASSET_APP",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH111939",
+            "BAPIPTEXT": "Profile for role SAP_MDG_ADMIN",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T-SH112413",
+            "BAPIPTEXT": "Profile for role SAP_SD_SOFM_DLV_APP",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T_EB760222",
+            "BAPIPTEXT": "Profile for role /SRMSMC/ACTIVITY_MANAGER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T_MB410030",
+            "BAPIPTEXT": "Profile for role /SRMSMC/QUESTIONNAIRE_MANAGER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T_MB410055",
+            "BAPIPTEXT": "Profile for role /SRMSMC/EVALUATION_APPRAISER",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        },
+        {
+            "BAPIPROF": "T_Y2190099",
+            "BAPIPTEXT": "Profile for Role SAP_PAGEBUILDER_DISPLAY",
+            "BAPITYPE": "G",
+            "BAPIAKTPS": "A"
+        }
+    ],
+    "RETURN": [],
+    "SAPUSER_UUID_HIST": [],
+    "SYSTEMS": [],
+    "UCLASSSYS": []
+}
